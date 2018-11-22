@@ -13,23 +13,6 @@ test
 testtt
 test commit for duration check
 test unmanaged commit
-test commit
-testtt
-check
-test
-test v1 lifecycle workitem
-est commit
-testtt123i
-dafaf
-checki
-cdsad
-check
-defwdfa
-sdweqf
-wqr
-dfrew
-ewfr
-dfe
-ferf
+test!
 
 
