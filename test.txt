@@ -58,5 +58,5 @@ dw
 check
 d
 chec
-test
+test!
 
