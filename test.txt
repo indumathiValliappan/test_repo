@@ -59,6 +59,6 @@ check
 d
 chec
 test
-ad - with WI
+a - with WI
 
 
