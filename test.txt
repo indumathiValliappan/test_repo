@@ -57,7 +57,7 @@ ef
 dw
 check
 d
-ch
+c
  
 
 
