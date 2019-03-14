@@ -55,8 +55,7 @@ fredef
 dw
 ef
 dw
-check
-
+chec
  
 
 
